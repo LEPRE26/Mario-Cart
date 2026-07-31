@@ -6,17 +6,17 @@ const player1 = {
     pontos: 0,
 };
 const player2 = {
-    nome: "Luigi",
-    velocidade: 3,
-    manobrabilidade: 4,
+    nome: "Peach",
+    velocidade: 2,
+    manobrabilidade: 3,
     poder: 4,
     pontos: 0,
 };
 const player3 = {
-    nome: "Peach",
+    nome: "Yoshi",
     velocidade: 2,
-    manobrabilidade: 3,
-    poder: 2,
+    manobrabilidade: 4,
+    poder: 3,
     pontos: 0,
 };
 const player4 = {
