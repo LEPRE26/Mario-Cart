@@ -1,0 +1,14 @@
+{
+  "name": "1-node.dio-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Projeto de estudo do curso de Node.js da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open":"echo \"ola mundo\"&& exit 1 "
+  },
+  "keywords": ["projeto", "nodejs", "dio","minha primeira api"],
+  "author": "Lucas Pereira",
+  "license": "ISC",
+  "type": "commonjs"
+}
